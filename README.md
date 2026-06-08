@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data analyst with a distinct curiosity about numbers and market behavior. I specialize in cleaning and visualizing data that helps teams have a broader/clearer perspective on data and based on that, make the best decisions for the future of the company.<br><br>🔭 I’m currently working on strengthening my profile to face new professional challenges and to show my talent to the world.<br>🌱 I’m currently learning and practicing SQL, Python and excel.<br>❤️ I love giving insights and ideas to help companies flourish in this modern society.<br>⚡ Fun fact: I am also a professional dancer.<br>📫 How to reach me: diego7al@hotmail.com<br><br>Technical skills:<br><br>python rstudio sql tableau excel<br>
+Data analyst with a distinct curiosity about numbers and market behavior. I specialize in cleaning and visualizing data that helps teams have a broader/clearer perspective on data and based on that, make the best decisions for the future of the company.<br><br>🔭 I’m currently working on strengthening my profile to face new professional challenges and to show my talent to the world.<br>🌱 I’m currently learning and practicing SQL, Python and excel.<br>❤️ I love giving insights and ideas to help companies flourish in this modern society.<br>⚡ Fun fact: I am also a professional dancer.<br>📫 How to reach me: diego7al@hotmail.com<br><br>
 
 
 # 💻 Tech Stack:
